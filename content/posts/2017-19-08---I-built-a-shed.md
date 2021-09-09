@@ -1,9 +1,9 @@
 ---
-title: Building a man-cave
+title: Man Cave 
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "brommers-man-cave"
 category: "Typography"
 tags:
   - "Design"
@@ -12,11 +12,6 @@ tags:
 description: "A work in progress"
 socialImage: "/media/42-line-bible.jpg"
 ---
-
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
 
 Building a blog.
 
