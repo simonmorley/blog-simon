@@ -12,6 +12,10 @@ description: "Shots of my hood from the sky. Shot with a Mavic DJI Mini 2, stand
 ---
 Recently purchased a Mavic DJI Mini 2. Mostly on a whim during a stressful day at work but I've become obsessed with it. The shots it takes are phenomenal - looking down on the world is just so peaceful.
 
+I don't have too much time to tinker with the pics but I've defo enjoyed working with the RAW images.
+
+Bromley gets some lovely sunsets and the weather has been lovely this September. The Mini 2's camera is amazing but it struggles in low light. However, the RAW images have so much data, it's pretty easy to turn the pics around in less than 20 seconds.
+
 ![](/media/2021/0910/allotment-01.jpg)
 *My beloved allotment from the air*
 
@@ -30,4 +34,4 @@ Recently purchased a Mavic DJI Mini 2. Mostly on a whim during a stressful day a
 ![](/media/2021/0910/bromley-kent-01.jpg)
 *Bromley, Kent.*
 
-I don't have too much time to tinker with the pics but I've defo enjoyed working with the RAW images. Have been focused on the sunsets, since they're stunning where I live. The shadows though are just so dark without adjusting. Probably got a little carried away adjusting things in potatoshop though!
+Probably got a little carried away adjusting things in potatoshop though!
