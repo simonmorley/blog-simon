@@ -8,9 +8,9 @@ category: "Drone"
 tags:
   - "Photography"
   - "Drone"
-description: "Shots of my hood from the sky. Shot with a Mavic DJI Mini 2"
+description: "Shots of my hood from the sky. Shot with a Mavic DJI Mini 2, standing in my allotment with some pals who are also in this whole drone thing."
 ---
-Recently purchased a Mavic DJI Mini 2, mostly on a whim. However, I've become obsessed with it. The shots it takes are phenomenal - looking down on the world is just so peaceful.
+Recently purchased a Mavic DJI Mini 2. Mostly on a whim during a stressful day at work but I've become obsessed with it. The shots it takes are phenomenal - looking down on the world is just so peaceful.
 
 ![](/media/2021/0910/allotment-01.jpg)
 *My beloved allotment from the air*
